@@ -254,6 +254,6 @@ form .name-details .field:last-child{
 
 /* for php */
 .users-list a .status-dot.offline{
-    color: #ccc;
+    color: hsl(0, 0%, 80%);
 }
 
